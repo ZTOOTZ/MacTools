@@ -68,7 +68,7 @@ mac百度网盘破解版 <https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/b
 * Go2Shell	
 
 ## Mac软件网站和github
-Xclient<https://xclient.info/s/?_=a05fc4a0d4599abedc164b50509cf321>
+Xclient <https://xclient.info/s/?_=a05fc4a0d4599abedc164b50509cf321>
 
 MacBL <https://www.macbl.com/?utm_source=appdmg&utm_medium=webloc>	
 
@@ -82,15 +82,15 @@ iCHAIT <https://github.com/iCHAIT/awesome-macOS>
 catofmrlu <https://github.com/catofmrlu/MacApps>
 
 
-##整理文件时遇到的问题和解决方法
-###批量复制文件名 
+## 整理文件时遇到的问题和解决方法
+### 批量复制文件名 
 选中-command+C---记事本或其他文本工具--command+V
 
-###制作DMG 
+### 制作DMG 
 
-#####制作application替身
+##### 制作application替身
 鼠标右击应用程序文件夹->制作替身
-#####生成webloc文件并加图标
+##### 生成webloc文件并加图标
 打开safari，随便输入一个地址，然后拖动地址栏到桌面，会形成一个webloc文件，这个按空格键可以预览！
 
 webloc文件的logo制作 <https://www.logosc.cn>  
@@ -98,6 +98,6 @@ webloc文件的logo制作 <https://www.logosc.cn>
 去水印   使用PixelStyle的印章工具
 
 按commond+i弹出文件简介面板，用鼠标点住左上角的空白图标，并粘贴图片
-#####生成dmg
+##### 生成dmg
 磁盘工具 -> shift+command+N->选择要生成.dmg的文件夹
 
