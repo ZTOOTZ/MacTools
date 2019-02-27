@@ -1,7 +1,7 @@
 # MacTools
 Mac上一些好用的app 
 
-链接:<https://pan.baidu.com/s/1kEaKxeiQaH7OAp3Y22XF5A>  密码:sthc
+链接:<https://pan.baidu.com/s/1kEaKxeiQaH7OAp3Y22XF5A>  密码:```sthc```
 
 ## 提示
 因为用Github网站直接上传的限制是25MB，使用git push命令的限制是100MB,且总的大小是1GB存储和每月1G带宽(免费用户),所以将资源放在百度网盘
