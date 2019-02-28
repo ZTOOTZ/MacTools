@@ -40,7 +40,6 @@ mac百度网盘破解版 <https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/b
 	* 向日葵  
 	* TeamViewer
 
-* CleanMyMac_X	mac清理工具
 * FileZilla		ftp管理工具
 * 播放器
 	* Movist 			
