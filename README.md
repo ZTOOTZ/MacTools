@@ -19,6 +19,7 @@ mac百度网盘破解版 <https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/b
 
 * 神器
 	* Alfred 3
+	* Macs Fan Control  设置mac风扇转速的工具
 	* XMind   
 * iOS逆向工具
 
